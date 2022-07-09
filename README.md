@@ -2,7 +2,7 @@
 ## A Front-End developer
 
 
-- 🌱 I’m currently learning: **React** 
+- 🌱 I’m currently learning: **React** and **Redux** 
 - 🔭 I’m currently working on: **something** **cool!**
 - 📫 How to reach me: hx.musavi@gmail.com 
 
