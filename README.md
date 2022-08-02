@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning: **React** and **Redux** 
-- 🔭 I’m currently working on: **something** **cool!**
+- 🔭 I’m currently working on: **Artman trading frontEnd** 
 - 📫 How to reach me: hx.musavi@gmail.com 
 
  ## Languages and Tools:
