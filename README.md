@@ -1,7 +1,7 @@
 ![TitleImage](./top.svg)
 
 ### Hi there 👋
-## I'm Hojjat a Front-End developer </br> specialized in building web applications with React and Redux.
+## I'm Hojjat a Front-End developer </br> specialized in building web applications with javascript freamworks.
 </br>
 
 📚&nbsp;I'm currently studying Computer Science at the University of Azad.<br>
